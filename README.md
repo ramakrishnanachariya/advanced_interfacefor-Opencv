@@ -1,6 +1,3 @@
-# advanced_interfacefor-Opencv
-
-
 Advanced userinterface using only opencv 
 ===========================================
 1.Button
